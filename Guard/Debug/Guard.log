@@ -1,0 +1,17 @@
+﻿生成启动时间为 2013/2/11 15:22:47。
+     1>项目“E:\项目实训\项目文档\项目成果\Guard\Guard.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Guard.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         Guard.vcxproj -> E:\项目实训\项目文档\项目成果\Debug\Guard.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Guard.unsuccessfulbuild”。
+         正在对“Debug\Guard.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\项目实训\项目文档\项目成果\Guard\Guard.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.62

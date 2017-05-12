@@ -1,0 +1,22 @@
+HGE Started..
+
+HGE version: 1.80
+Date: 11.02.2013, 15:22:50
+
+Application: Guard
+OS: Windows 6.1.7601
+Memory: 4136816K total, 2453896K free
+
+D3D Driver: aticfx32.dll
+Description: Mobile Intel(R) HD Graphics
+Version: 8.17.10.1072
+Can't find appropriate full screen video mode
+Mode: 850 x 600 x UNKNOWN
+
+Sound Device: ÑïÉùÆ÷ (Conexant SmartAudio HD)
+Sample rate: 44100
+
+Init done.
+
+Can't load resource: bin/Effects/heal.mp3
+Can't load resource: bin/Effects/Switch.mp3
